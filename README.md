@@ -1,4 +1,4 @@
-# 🏥 QueueSmart: Digital Clinic Queue Management System
+#  QueueSmart: Digital Clinic Queue Management System
 
 Welcome to the official repository for the **QueueSmart** project. This repository contains the complete Software Requirements Specification (SRS) document, designed to modernize patient flow in healthcare facilities.
 
@@ -19,21 +19,21 @@ Welcome to the official repository for the **QueueSmart** project. This reposito
 
 ---
 
-## 📄 About the Project
+##  About the Project
 **QueueSmart** aims to replace traditional, chaotic paper-based token systems with a centralized digital solution. It allows patients to book virtual tokens, track their real-time position in the queue, and receive automated notifications when their turn is near. 
 
 ###  Key Features
-* 📱 **Virtual Token Booking:** Book slots remotely via mobile/web.
+*  **Virtual Token Booking:** Book slots remotely via mobile/web.
 * ️ **Real-Time Tracking:** Live updates on queue position.
-* 🔔 **Smart Notifications:** SMS/Push alerts when 3 tokens away.
-* 🩺 **Doctor's Dashboard:** Easy interface to manage patient flow.
-* 🤖 **AI Integration:** Predictive wait-time estimation.
+*  **Smart Notifications:** SMS/Push alerts when 3 tokens away.
+*  **Doctor's Dashboard:** Easy interface to manage patient flow.
+*  **AI Integration:** Predictive wait-time estimation.
 
 ---
 
-## 📂 Repository Contents
-* 📄 **QueueSmart_SRS.pdf** - The complete, formatted Software Requirements Specification document.
-* 📝 **README.md** - This overview file.
+##  Repository Contents
+*  **QueueSmart_SRS.pdf** - The complete, formatted Software Requirements Specification document.
+*  **README.md** - This overview file.
 
 ---
 
